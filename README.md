@@ -1,2 +1,3 @@
 # Angular_basics
-Created with CodeSandbox
+
+- Practice Angular Basics
