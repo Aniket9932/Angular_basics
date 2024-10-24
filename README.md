@@ -1,3 +1,3 @@
 # Angular_basics
 
-- Practice Angular Basics
+- Practice Angular Basics & Test Cases
